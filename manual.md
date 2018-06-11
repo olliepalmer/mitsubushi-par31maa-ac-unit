@@ -1,11 +1,11 @@
-#Mitsubishi Electric PAR-31MAA
+# Mitsubishi Electric PAR-31MAA
 
 ![](images/1.png)
 
-#Air conditioning unit management system: official instructions for use
+# Air conditioning unit management system: official instructions for use
 
  
-##Introduction
+## Introduction
 
 Congratulations. You are about to begin pressing buttons on a Mitsubushi Electric PAR-31MAA air conditioning unit management system. This is one of the finest air conditioning unit management systems in the world, designed by a hand-picked selection of the best Japanese air conditioning unit management systems designers in the world. Few people are lucky enough to have this experience in their lifetimes, so please display appropriate humility in conversation with your friends and colleagues. 
 
@@ -17,7 +17,7 @@ Let’s assume that you want something to happen now, related to the air conditi
 
 Over time, the inherent complexity of achieving even the simplest task will fill you with a sense of achievement and pride.
 
-##Operations
+## Operations
 
 1. **On and off**
 The presumptuous user might wish to occasionally switch the unit on or off. This is one of the rare operations not requiring a password. Use the ‘on/off’ button.
