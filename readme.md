@@ -31,13 +31,13 @@ Do not be fooled by the ease of the previous operation! Fan speed requires margi
 If you wish to change the temperature, first ask yourself, ‘What is wrong with the current temperature?’ If the answer is not a great deal, then do not make any changes. It just is not worth your time or effort.  
 The second question one must ask is whether one has the administrative authority to make such a decision. This is not something to be taken lightly. If in doubt, send an email to your central administrative body, who may have decided on the correct temperature for rooms months in advance.  
 Of course, there is no ‘make it hotter’ button! Only a fool would desire such a thing. Part of the joy of the Mitsubushi Electric PAR-31MAA air conditioning unit management system is that it forces the user to think like the owner of a Mitsubushi Electric PAR-31MAA air conditioning unit management system. We cannot select the temperature we wish for directly. Rather, we will give the machine parameters – a range – within which to operate. 
-	- Press the menu button. Scroll to ‘Restriction’.
-![](images/2.png)
-	- Press the tick button.
-![](images/3.png)
+	- Press the menu button. Scroll to ‘Restriction’.  
+	![](images/2.png)
+	- Press the tick button.  
+	![](images/3.png)
 	- Press the tick button again.
-	- Enter the administrator password (0001).
-![](images/4.png)
+	- Enter the administrator password (0001).  
+	![](images/4.png)
 	- Then scroll and set the temperature range. For example, 21-23ºC. Set both Cool•Dry and Heat to the same temperature ranges, as there is no real logic to which mode the machine works within.  
 ![](images/5.png)
 Pro tip: a smaller temperature range, with only a couple of degrees, is almost like setting the temperature itself.  
